@@ -1,3 +1,4 @@
+/// <reference types="node" />
 import { APIRequestContext, expect } from "@playwright/test";
 import { API } from "./enum";
 import * as fs from "fs";
